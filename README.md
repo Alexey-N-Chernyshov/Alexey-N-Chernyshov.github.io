@@ -1,2 +1,2 @@
 # Alexey-N-Chernyshov.github.io
-Alexey Chernyshov
+[Blog](https://alexey-n-chernyshov.github.io/blog/)
